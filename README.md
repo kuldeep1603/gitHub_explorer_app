@@ -35,7 +35,7 @@ This project is a GitHub Explorer Mobile Application built using **React Native*
 1. Clone the repository:
    ```bash
    git clone https://github.com/kuldeep1603/gitHub_explorer_app
-   cd https://github.com/kuldeep1603/gitHub_explorer_app
+   cd gitHub_explorer_app
    ```
 
 2. Install dependencies:
